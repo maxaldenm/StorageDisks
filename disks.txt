@@ -1,0 +1,20 @@
+Desktop PC
+500 sata SSD samsung
+1000 m.2 (sata) SSD wd
+2000 3.5 sata HDD
+BluRay sata
+---
+Zolder PC
+250 sata SSD samsung
+1000 2.5 sata HDD
+DVD sata
+---
+Laptop (Lenovo)
+1000 nvme SSD samsung
+---
+Mini PC
+128 sata SSD
+---
+Other
+128 m.2 SSD
+256 m.2 SSD
